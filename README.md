@@ -11,9 +11,12 @@
 </a>
 
 
+-----
 
+   _  _  _  _     _<img width="300" height="450" alt="thisiswhoIam" src="https://github.com/user-attachments/assets/b2f82ced-50d4-42bb-8f92-a6b077edd100" />
 
-_____________<img width="682" height="1024" alt="thisiswhoIam" src="https://github.com/user-attachments/assets/b2f82ced-50d4-42bb-8f92-a6b077edd100" />
+ 
+-----
 
 <!--
 **kkalchake/kkalchake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
