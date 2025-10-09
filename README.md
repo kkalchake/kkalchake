@@ -10,10 +10,9 @@
   Instagram
 </a>
 
+<img width="530" height="399" alt="image" src="https://github.com/user-attachments/assets/bf9e8ff2-4b1b-44ab-aef9-6300a822fbe1" />
 
------
 
-   _  _  _  _     _<img width="300" height="450" alt="thisiswhoIam" src="https://github.com/user-attachments/assets/b2f82ced-50d4-42bb-8f92-a6b077edd100" />
 
  
 -----
